@@ -6,19 +6,13 @@
  * };
  */
 struct ListNode* middleNode(struct ListNode* head) {
-    struct ListNode* ptr = head;
-    int length = 0;
-    while (ptr->next != NULL) {
-        ptr = ptr->next;
-        length++;
+    struct ListNode* headPtr = head;
+    struct ListNode* tailPtr = head;
+
+    while (tailPtr != NULL && tailPtr->next != NULL) {
+        headPtr = headPtr->next;
+        tailPtr = tailPtr->next->next;
     }
 
-    ptr = head;
-    int halfIndex = (length / 2) + (length % 2);
-    while (halfIndex > 0) {
-        ptr = ptr->next;
-        halfIndex--;
-    }
-
-    return ptr;
+    return headPtr;
 }
