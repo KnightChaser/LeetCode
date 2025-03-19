@@ -34,13 +34,10 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2,
 
     // Calculate the median value
     int arraySize = (nums1Size + nums2Size);
-    int index = arraySize - 1; // Arrays start with 0
     if (arraySize % 2 == 1) {
-        return (double)(mergedArray[index / 2]);
+        return (double)(mergedArray[arraySize / 2]);
     } else {
-        return ((double)mergedArray[index / 2] +
-                (double)mergedArray[(index / 2) + 1]) /
-               2;
+        return (mergedArray[(arraySize / 2) - 1] + mergedArray[arraySize / 2]) / 2.0;
     }
 
     return 0;
