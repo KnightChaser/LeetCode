@@ -29,6 +29,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
+| [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
