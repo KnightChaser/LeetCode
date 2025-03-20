@@ -26,9 +26,9 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     // O(n lg n) (using QuickSort)
     qsort(pairs, numsSize, sizeof(Pair), comparePair);
 
-    for (int index = 0; index < numsSize; index++) {
-        printf("pairs[%d] => %d\n", pairs[index].index, pairs[index].value);
-    }
+    // for (int index = 0; index < numsSize; index++) {
+    //     printf("pairs[%d] => %d\n", pairs[index].index, pairs[index].value);
+    // }
 
     int leftIndex = 0;
     int rightIndex = numsSize - 1;
