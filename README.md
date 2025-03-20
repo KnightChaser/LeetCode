@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
@@ -37,6 +38,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Linked List
 |  |
@@ -53,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KnightChaser/LeetCode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -69,4 +72,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KnightChaser/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
