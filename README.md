@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KnightChaser/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KnightChaser/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KnightChaser/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
