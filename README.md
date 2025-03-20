@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/KnightChaser/LeetCode/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
