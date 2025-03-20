@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KnightChaser/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KnightChaser/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
