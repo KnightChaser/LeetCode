@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/KnightChaser/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Prefix Sum
@@ -88,6 +89,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
 | ------- |
