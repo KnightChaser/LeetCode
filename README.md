@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/KnightChaser/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/KnightChaser/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
+| [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
