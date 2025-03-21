@@ -42,7 +42,7 @@ int* spiralOrder(int** matrix, int matrixSize, int* matrixColSize, int* returnSi
             bottomVisitedIndex--;
         }
 
-        // Fourth, go up
+        // Fourth, go up (also check if we can still go up)
         if (leftVisitedIndex <= rightVisitedIndex && topVisitedIndex <= bottomVisitedIndex && topVisitedIndex <= bottomVisitedIndex) {
             for (int i = bottomVisitedIndex; i >= topVisitedIndex; i--) {
                 result[*returnSize] = matrix[i][leftVisitedIndex];
@@ -50,6 +50,13 @@ int* spiralOrder(int** matrix, int matrixSize, int* matrixColSize, int* returnSi
             }
             leftVisitedIndex++;
         }
+
+        // Debug, print the result
+        printf("LOG -> ");
+        for (int i = 0; i < *returnSize; i++) {
+            printf("%d ", result[i]);
+        }
+        printf("\n");
     }
 
     return result;
