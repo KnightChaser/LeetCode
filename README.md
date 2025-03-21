@@ -13,6 +13,7 @@
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KnightChaser/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/KnightChaser/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KnightChaser/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
