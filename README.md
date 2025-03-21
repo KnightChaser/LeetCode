@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0066-plus-one](https://github.com/KnightChaser/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## String
 |  |
 | ------- |
