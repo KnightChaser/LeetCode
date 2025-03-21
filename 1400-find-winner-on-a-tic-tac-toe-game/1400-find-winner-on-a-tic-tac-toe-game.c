@@ -1,4 +1,4 @@
-char* checkTictactoeWinenr(char** map) {
+char* checkTictactoeWinner(char** map) {
     // Check who wins the game
     // - check rows
     for (int row = 0; row < 3; row++) {
@@ -55,6 +55,6 @@ char* tictactoe(int** moves, int movesSize, int* movesColSize) {
     }
 
     // Check who wins the game
-    return checkTictactoeWinenr(map);
+    return checkTictactoeWinner(map);
 }
 
