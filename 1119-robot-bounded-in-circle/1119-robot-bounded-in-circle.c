@@ -48,8 +48,6 @@ bool isRobotBounded(char* instructions) {
                 robot.direction = 'N';
             }
         }
-        printf("Processing instruction: %c -->", c);
-        printf("Robot position: (%d, %d), Direction: %c\n", robot.x, robot.y, robot.direction);
     }
 
     // Now check if the robot is back at the starting point
