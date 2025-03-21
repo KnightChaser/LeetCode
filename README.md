@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -21,6 +22,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
@@ -53,6 +55,7 @@
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KnightChaser/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Counting
 |  |
 | ------- |
