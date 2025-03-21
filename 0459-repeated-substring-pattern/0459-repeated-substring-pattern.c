@@ -3,38 +3,29 @@
 
 bool repeatedSubstringPattern(char *s) {
     int len = strlen(s);
-    int expectedSubstringLength = 1;
-    bool hasSubstringPattern = false;
 
-    for (int i = 0; i < len / 2; i++) {
-        // We must ensure that the length of the substring is a factor of the length of the string
-        while (len % expectedSubstringLength != 0 && expectedSubstringLength < len / 2) {
-            expectedSubstringLength++;
+    // Loop through the string
+    for (int subLength = 1; subLength <= len / 2; subLength++) {
+        // Candidate substring must evenly divide the string
+        if (len % subLength != 0) {
+            continue;
         }
-        // printf("Expected substring length: %d\n", expectedSubstringLength);
 
-        // Reset the flag
-        hasSubstringPattern = false;
-
-        // The possible substring can be from 1 to len / 2
-        for (int j = 0; j < len; j += expectedSubstringLength) {
-            // We will check if the substring is repeated
-            if (strncmp(s, s + j, expectedSubstringLength) == 0) {
-                hasSubstringPattern = true;
-            } else {
-                hasSubstringPattern = false;
+        // Check each substring of size subLength
+        bool valid = true;
+        for (int j = 0; j < len; j++) {
+            if (s[j] != s[j % subLength]) {
+                valid = false;
                 break;
             }
-            // printf("Substring: %.*s, hasSubstringPattern: %s\n", expectedSubstringLength, s + j, hasSubstringPattern ? "true" : "false");
         }
 
-        // If we found a substring pattern, we can return true
-        if (hasSubstringPattern) {
+        // We found a valid substring
+        if (valid) {
             return true;
         }
-
-        expectedSubstringLength++;
     }
 
-    return hasSubstringPattern;
+    // At this point, no valid substring was found
+    return false;
 }
