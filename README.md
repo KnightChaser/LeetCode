@@ -92,6 +92,7 @@
 | [0002-add-two-numbers](https://github.com/KnightChaser/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@
 | [0002-add-two-numbers](https://github.com/KnightChaser/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KnightChaser/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
