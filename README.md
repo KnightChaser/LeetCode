@@ -91,6 +91,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KnightChaser/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KnightChaser/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -153,4 +155,12 @@
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
