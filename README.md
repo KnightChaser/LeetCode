@@ -14,6 +14,7 @@
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KnightChaser/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/KnightChaser/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -136,4 +138,8 @@
 | ------- |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
