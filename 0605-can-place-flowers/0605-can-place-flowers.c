@@ -25,6 +25,7 @@ bool canPlaceFlowers(int *flowerbed, int flowerbedSize, int n) {
                 if (flowerbed[i + 1] == 0) {
                     flowerbed[i] = 1;
                     possiblePlant++;
+                    i++; // We know we can't plant a flower at the next index
                 }
                 continue;
             }
@@ -35,6 +36,7 @@ bool canPlaceFlowers(int *flowerbed, int flowerbedSize, int n) {
                 if (flowerbed[i - 1] == 0) {
                     flowerbed[i] = 1;
                     possiblePlant++;
+                    i++; // We know we can't plant a flower at the next index
                 }
                 continue;
             }
@@ -43,6 +45,7 @@ bool canPlaceFlowers(int *flowerbed, int flowerbedSize, int n) {
             if (flowerbed[i - 1] == 0 && flowerbed[i + 1] == 0) {
                 flowerbed[i] = 1;
                 possiblePlant++;
+                i++; // We know we can't plant a flower at the next index
             }
         }
     }
