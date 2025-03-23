@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/KnightChaser/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
@@ -164,6 +165,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
