@@ -49,6 +49,7 @@
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/KnightChaser/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/KnightChaser/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -69,6 +70,7 @@
 | [0657-robot-return-to-origin](https://github.com/KnightChaser/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KnightChaser/LeetCode/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/KnightChaser/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
