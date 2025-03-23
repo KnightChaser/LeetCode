@@ -60,14 +60,15 @@ char *reverseWords(char *s) {
     // and reverse the entire string
     int startIndex = 0;
     int endIndex = 0;
-    reverse(s, 0, strlen(s) - 1);
+    int stringLength = strlen(s);
+    reverse(s, 0, stringLength - 1);
 
     // Now, reverse each word
-    for (int i = 0; i < strlen(s); i++) {
+    for (int i = 0; i < stringLength; i++) {
         if (s[i] == ' ') {
             reverse(s, startIndex, endIndex - 1);
             startIndex = i + 1;
-        } else if (i == strlen(s) - 1) {
+        } else if (i == stringLength - 1) {
             // If we are at the end of the string which doesn't have a space
             reverse(s, startIndex, endIndex);
         }
