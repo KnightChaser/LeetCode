@@ -4,7 +4,9 @@
 #include <stdlib.h>
 
 int *productExceptSelf(int *nums, int numsSize, int *returnSize) {
-    int *result = (int *)calloc(numsSize, sizeof(int));
+    // It's okay not to use calloc() here because we're going to fill the array
+    // so it'll help us to avoid unnecessary overhead
+    int *result = (int *)malloc(sizeof(int) * numsSize);
 
     // First, fill the result array with the product of all elements to the left
     // of the current element (forward-pass)
