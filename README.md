@@ -33,6 +33,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/KnightChaser/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/KnightChaser/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/KnightChaser/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/KnightChaser/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/KnightChaser/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
