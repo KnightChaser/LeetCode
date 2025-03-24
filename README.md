@@ -83,6 +83,7 @@
 | [0742-to-lower-case](https://github.com/KnightChaser/LeetCode/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KnightChaser/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KnightChaser/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
@@ -201,4 +202,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KnightChaser/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KnightChaser/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
