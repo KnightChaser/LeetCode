@@ -9,8 +9,6 @@ bool isCharVowel(char c) {
     return false;
 }
 
-int max(int a, int b) { return a > b ? a : b; }
-
 int maxVowels(char *s, int k) {
     int maxVowelCounts = 0;
     int currentVowelCounts = 0;
@@ -36,7 +34,9 @@ int maxVowels(char *s, int k) {
             currentVowelCounts--;
         }
 
-        maxVowelCounts = max(maxVowelCounts, currentVowelCounts);
+        if (currentVowelCounts > maxVowelCounts) {
+            maxVowelCounts = currentVowelCounts;
+        }
     }
 
     return maxVowelCounts;
