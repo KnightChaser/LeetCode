@@ -16,6 +16,7 @@
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KnightChaser/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/KnightChaser/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KnightChaser/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/KnightChaser/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/KnightChaser/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/KnightChaser/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/KnightChaser/LeetCode/tree/master/1833-find-the-highest-altitude) |
