@@ -1,29 +1,20 @@
-#include <stdlib.h>
-
 int pivotIndex(int *nums, int numsSize) {
-    int *leftPrefixSum = (int *)calloc(numsSize, sizeof(int));
-    int *rightPrefixSum = (int *)calloc(numsSize, sizeof(int));
-
-    // Calculate left prefix sum
-    leftPrefixSum[0] = nums[0];
-    for (int i = 1; i < numsSize; i++) {
-        leftPrefixSum[i] = leftPrefixSum[i - 1] + nums[i];
-    }
-
-    // Calculate right prefix sum
-    rightPrefixSum[numsSize - 1] = nums[numsSize - 1];
-    for (int i = numsSize - 2; i >= 0; i--) {
-        rightPrefixSum[i] = rightPrefixSum[i + 1] + nums[i];
-    }
-
-    // Now, check if there is any pivot index
-    int pivotIndex = -1;
+    // Calculate sum of all elements
+    int totalSum = 0;
     for (int i = 0; i < numsSize; i++) {
-        if (leftPrefixSum[i] == rightPrefixSum[i]) {
-            pivotIndex = i;
-            break;
-        }
+        totalSum += nums[i];
     }
 
-    return pivotIndex;
+    // leftSum is totalSum - previous elements sum,
+    // so we can calculate rightSum by totalSum - leftSum - nums[i]
+    int leftSum = 0;
+    for (int i = 0; i < numsSize; i++) {
+        int rightSum = totalSum - leftSum - nums[i];
+        if (leftSum == rightSum) {
+            return i;
+        }
+        leftSum += nums[i];
+    }
+
+    return -1;
 }
