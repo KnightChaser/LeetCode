@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/KnightChaser/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KnightChaser/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
