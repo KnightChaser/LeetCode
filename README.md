@@ -26,6 +26,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/KnightChaser/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Prefix Sum
 |  |
@@ -119,6 +120,7 @@
 | [0392-is-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KnightChaser/LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/KnightChaser/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -130,6 +132,7 @@
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KnightChaser/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/KnightChaser/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String Matching
 |  |
 | ------- |
