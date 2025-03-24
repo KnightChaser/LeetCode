@@ -12,6 +12,11 @@ int maxOperations(int *nums, int numsSize, int k) {
     int rightIndex = numsSize - 1;
     int occurences = 0;
 
+    // We skip rightIndex such as nums[rightIndex] >= k
+    while (rightIndex >= 0 && nums[rightIndex] >= k) {
+        rightIndex--;
+    }
+
     while (leftIndex < rightIndex) {
         int sum = nums[leftIndex] + nums[rightIndex];
         if (sum == k) {
