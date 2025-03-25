@@ -21,6 +21,7 @@
 | [0932-monotonic-array](https://github.com/KnightChaser/LeetCode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/KnightChaser/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/KnightChaser/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/KnightChaser/LeetCode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KnightChaser/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -143,6 +144,7 @@
 | [0242-valid-anagram](https://github.com/KnightChaser/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/KnightChaser/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/KnightChaser/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
