@@ -90,6 +90,7 @@
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KnightChaser/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/KnightChaser/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0649-dota2-senate](https://github.com/KnightChaser/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/KnightChaser/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KnightChaser/LeetCode/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -194,6 +195,7 @@
 | [0011-container-with-most-water](https://github.com/KnightChaser/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/KnightChaser/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Geometry
@@ -227,6 +229,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/KnightChaser/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/KnightChaser/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
