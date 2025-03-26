@@ -40,6 +40,7 @@
 | [1833-find-the-highest-altitude](https://github.com/KnightChaser/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/KnightChaser/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/KnightChaser/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/KnightChaser/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/KnightChaser/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
