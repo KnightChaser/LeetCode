@@ -15,7 +15,7 @@ void initStack(Stack *s, int size) {
     s->capacity = size;
 }
 
-bool isStackEmtpy(Stack *s) { return s->size == 0; }
+bool isStackEmpty(Stack *s) { return s->size == 0; }
 
 bool isStackFull(Stack *s) { return s->size == s->capacity; }
 
@@ -29,7 +29,7 @@ void stackPush(Stack *s, int val) {
 }
 
 int stackPop(Stack *s) {
-    if (isStackEmtpy(s)) {
+    if (isStackEmpty(s)) {
         fprintf(stderr, "Stack is empty\n");
         return -1;
     }
@@ -40,7 +40,7 @@ int stackPop(Stack *s) {
 }
 
 int stackPeek(Stack *s) {
-    if (isStackEmtpy(s)) {
+    if (isStackEmpty(s)) {
         return -1;
     }
     return s->data[s->size - 1];
@@ -62,7 +62,7 @@ int *asteroidCollision(int *asteroids, int asteroidsSize, int *returnSize) {
             stackPush(&asteroidStack, asteroid);
         } else {
             // Process potential collision
-            while (!isStackEmtpy(&asteroidStack) &&
+            while (!isStackEmpty(&asteroidStack) &&
                    stackPeek(&asteroidStack) > 0 &&
                    abs(asteroid) > stackPeek(&asteroidStack)) {
                 // The right-moving asteroid is destroyed
@@ -71,7 +71,7 @@ int *asteroidCollision(int *asteroids, int asteroidsSize, int *returnSize) {
 
             // If there's a collision with equal size,
             // both asteroids are destroyed.
-            if (!isStackEmtpy(&asteroidStack) &&
+            if (!isStackEmpty(&asteroidStack) &&
                 stackPeek(&asteroidStack) > 0 &&
                 stackPeek(&asteroidStack) == abs(asteroid)) {
                 // (destroyed)
@@ -80,7 +80,7 @@ int *asteroidCollision(int *asteroids, int asteroidsSize, int *returnSize) {
                 // If the stack is empty or the top is moving left,
                 // push the current asteroid to the stack(top and asteroid are
                 // moving in the same dairection)
-                if (isStackEmtpy(&asteroidStack) ||
+                if (isStackEmpty(&asteroidStack) ||
                     stackPeek(&asteroidStack) < 0) {
                     stackPush(&asteroidStack, asteroid);
                 }
