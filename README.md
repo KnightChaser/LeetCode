@@ -94,6 +94,7 @@
 | [0383-ransom-note](https://github.com/KnightChaser/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KnightChaser/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/KnightChaser/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -189,6 +190,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KnightChaser/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/KnightChaser/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KnightChaser/LeetCode/tree/master/0735-asteroid-collision) |
