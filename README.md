@@ -134,6 +134,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KnightChaser/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
