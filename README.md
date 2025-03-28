@@ -212,6 +212,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KnightChaser/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/KnightChaser/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/KnightChaser/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/KnightChaser/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -287,6 +289,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/KnightChaser/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -307,6 +310,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/KnightChaser/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -315,4 +319,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KnightChaser/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
