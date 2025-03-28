@@ -21,12 +21,11 @@ int getDiameter(struct TreeNode *root, int *diameter) {
 
     // The diameter of the tree is :
     // height of left subtree + height of right subtree + 1
-    int currentDiameter = leftHeight + rightHeight + 1;
-    if (currentDiameter > *diameter) {
-        *diameter = currentDiameter;
+    if (leftHeight + rightHeight > *diameter) {
+        *diameter = leftHeight + rightHeight;
     }
 
-    return leftHeight > rightHeight ? leftHeight + 1 : rightHeight + 1;
+    return 1 + (leftHeight > rightHeight ? leftHeight : rightHeight);
 }
 
 int diameterOfBinaryTree(struct TreeNode *root) {
@@ -38,8 +37,5 @@ int diameterOfBinaryTree(struct TreeNode *root) {
     int diameter = 0;
     getDiameter(root, &diameter);
 
-    // Return the diameter of the tree
-    // -1 because the diameter is the number of edges between the two nodes,
-    // so there is one less node than the number of edges actually
-    return diameter - 1;
+    return diameter;
 }
