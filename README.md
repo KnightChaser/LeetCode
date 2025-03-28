@@ -280,6 +280,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KnightChaser/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
@@ -297,6 +298,7 @@
 | [0101-symmetric-tree](https://github.com/KnightChaser/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
@@ -312,6 +314,7 @@
 | [0100-same-tree](https://github.com/KnightChaser/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KnightChaser/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
@@ -325,6 +328,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KnightChaser/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KnightChaser/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
