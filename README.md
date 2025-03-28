@@ -276,6 +276,7 @@
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -286,6 +287,7 @@
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -303,6 +305,7 @@
 | [0563-binary-tree-tilt](https://github.com/KnightChaser/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
