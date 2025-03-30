@@ -36,12 +36,22 @@ bool findTarget(struct TreeNode* root, int k) {
     // Now, check if there are two elements
     // in the array that sum up to k
     // (The array elements[] is ascendingly sorted)
-    for (int i = 0; i < index; i++) {
-        for (int j = i + 1; j < index; j++) {
-            if (elements[i] + elements[j] == k) {
-                return true;
-            }
+    int startIndex = 0;
+    int endIndex = index - 1;
+    while (startIndex < endIndex) {
+        int sum = elements[startIndex] + elements[endIndex];
+        if (sum == k) {
+            return true;
+        } else if (sum < k) {
+            // If the current sum is less than the target,
+            // We move startIndex to the right to add bigger numbers
+            startIndex++;
+        } else {
+            // If the current sum is bigger than the target,
+            // We move endIndex to the left to add smaller numbers
+            endIndex--;
         }
     }
+
     return false;
 }
