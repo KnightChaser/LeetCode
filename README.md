@@ -298,6 +298,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KnightChaser/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -321,6 +322,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KnightChaser/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -359,6 +361,7 @@
 | [0617-merge-two-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KnightChaser/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
