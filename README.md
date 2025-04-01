@@ -75,6 +75,7 @@
 | [0050-powx-n](https://github.com/KnightChaser/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KnightChaser/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KnightChaser/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/KnightChaser/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/KnightChaser/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/KnightChaser/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/KnightChaser/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -214,6 +216,7 @@
 | [0050-powx-n](https://github.com/KnightChaser/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KnightChaser/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KnightChaser/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
