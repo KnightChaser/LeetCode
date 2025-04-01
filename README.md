@@ -75,6 +75,7 @@
 | [0066-plus-one](https://github.com/KnightChaser/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KnightChaser/LeetCode/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/KnightChaser/LeetCode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/KnightChaser/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -211,6 +213,7 @@
 | [0203-remove-linked-list-elements](https://github.com/KnightChaser/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
