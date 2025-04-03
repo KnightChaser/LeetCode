@@ -78,6 +78,7 @@
 | [0231-power-of-two](https://github.com/KnightChaser/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
@@ -226,6 +227,7 @@
 | [0234-palindrome-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/KnightChaser/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KnightChaser/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
