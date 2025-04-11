@@ -42,6 +42,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/KnightChaser/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/KnightChaser/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/KnightChaser/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -90,6 +91,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/KnightChaser/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KnightChaser/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -133,6 +135,7 @@
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/KnightChaser/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KnightChaser/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/KnightChaser/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -240,6 +243,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KnightChaser/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KnightChaser/LeetCode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -319,6 +323,7 @@
 | ------- |
 | [0649-dota2-senate](https://github.com/KnightChaser/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/KnightChaser/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
