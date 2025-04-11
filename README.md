@@ -81,6 +81,7 @@
 | [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/KnightChaser/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -143,6 +144,7 @@
 | [0231-power-of-two](https://github.com/KnightChaser/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KnightChaser/LeetCode/tree/master/0389-find-the-difference) |
+| [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KnightChaser/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -235,6 +237,7 @@
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KnightChaser/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/KnightChaser/LeetCode/tree/master/2050-count-good-numbers) |
