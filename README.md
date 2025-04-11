@@ -241,6 +241,7 @@
 | [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KnightChaser/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0392-is-subsequence) |
+| [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KnightChaser/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -353,6 +355,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KnightChaser/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -422,6 +425,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KnightChaser/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/KnightChaser/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/KnightChaser/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KnightChaser/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -442,6 +446,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
