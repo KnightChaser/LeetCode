@@ -93,6 +93,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/KnightChaser/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KnightChaser/LeetCode/tree/master/2050-count-good-numbers) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/KnightChaser/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -247,6 +248,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/KnightChaser/LeetCode/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/KnightChaser/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/KnightChaser/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/KnightChaser/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
