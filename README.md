@@ -18,6 +18,7 @@
 | [0238-product-of-array-except-self](https://github.com/KnightChaser/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KnightChaser/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KnightChaser/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/KnightChaser/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KnightChaser/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -82,6 +83,7 @@
 | [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/KnightChaser/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/KnightChaser/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -241,6 +243,7 @@
 | [0342-power-of-four](https://github.com/KnightChaser/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/KnightChaser/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/KnightChaser/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/KnightChaser/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KnightChaser/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
 | [0930-all-possible-full-binary-trees](https://github.com/KnightChaser/LeetCode/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/KnightChaser/LeetCode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KnightChaser/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -454,4 +458,8 @@
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/KnightChaser/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
