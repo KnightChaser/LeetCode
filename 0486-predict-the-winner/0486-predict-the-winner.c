@@ -1,25 +1,39 @@
 #include <stdbool.h>
+#include <stdlib.h>
 
 #define max(a, b) ((a) > (b) ? (a) : (b))
 
-int predictTheWinnerHelper(int nums[], int i, int j) {
-    if (i == j) {
-        // Only one number left.
-        // In this case, the player can only take that number.
-        return nums[i];
+bool predictTheWinner(int *nums, int numsSize) {
+    // Create a n by n DP table
+    int **dp = (int **)malloc(numsSize * sizeof(int *));
+    for (size_t i = 0; i < numsSize; i++) {
+        dp[i] = (int *)malloc(numsSize * sizeof(int));
     }
 
-    // If I take nums[i], the opponent then plays optimally on [i+1, j]
-    int takeLeft = nums[i] - predictTheWinnerHelper(nums, i + 1, j);
+    // Base case: when there is only one number,
+    // the player must take that one
+    for (size_t i = 0; i < numsSize; i++) {
+        dp[i][i] = nums[i];
+    }
 
-    // If I take nums[j], the opponent then plays optimally on [i, j-1]
-    int takeRight = nums[j] - predictTheWinnerHelper(nums, i, j - 1);
+    // Build up the DP table
+    for (size_t len = 2; len <= numsSize; len++) {
+        for (size_t i = 0; i + len - 1 < numsSize; i++) {
+            int j =
+                i + len - 1; // index of the last number in the current range
+            int takeLeft = nums[i] - dp[i + 1][j];  // take the left number
+            int takeRight = nums[j] - dp[i][j - 1]; // take the right number
+            dp[i][j] = max(takeLeft, takeRight);    // choose the best option
+        }
+    }
 
-    return max(takeLeft, takeRight);
-}
+    bool result = dp[0][numsSize - 1] >= 0; // check if the first player can win
 
-bool predictTheWinner(int *nums, int numsSize) {
-    // If it returns a non-negative value,
-    // it means the first player can win or tie.
-    return predictTheWinnerHelper(nums, 0, numsSize - 1) >= 0;
+    // Clean up the DP table
+    for (size_t i = 0; i < numsSize; i++) {
+        free(dp[i]);
+    }
+    free(dp);
+
+    return result;
 }
