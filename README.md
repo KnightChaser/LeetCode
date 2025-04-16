@@ -46,6 +46,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KnightChaser/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2102-find-the-middle-index-in-array](https://github.com/KnightChaser/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KnightChaser/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KnightChaser/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2428-equal-row-and-column-pairs](https://github.com/KnightChaser/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3799-unique-3-digit-even-numbers](https://github.com/KnightChaser/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
@@ -267,6 +268,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/KnightChaser/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/KnightChaser/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KnightChaser/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KnightChaser/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## String Matching
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0649-dota2-senate](https://github.com/KnightChaser/LeetCode/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/KnightChaser/LeetCode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/KnightChaser/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KnightChaser/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
 |  |
 | ------- |
@@ -465,4 +468,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KnightChaser/LeetCode/tree/master/0486-predict-the-winner) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/KnightChaser/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
