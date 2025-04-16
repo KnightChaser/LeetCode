@@ -11,19 +11,19 @@ struct ListNode* deleteDuplicates(struct ListNode* head) {
         return NULL;
     }
 
-    struct ListNode* previous = NULL;
-    struct ListNode* current = head;
-    while (current != NULL) {
-        if (previous != NULL && previous->val == current->val) {
-            // Duplicate found, remove the current node
-            struct ListNode* temp = current;
-            current = current->next;
-            previous->next = current;
-            free(temp);
+    struct ListNode **pp = &head;
+
+    while (*pp) {
+        struct ListNode *current = *pp;
+        if (current->next && current->val == current->next->val) {
+            // If the current node's value is equal to the next node's value,
+            // Remove the next node to avoid duplicates
+            struct ListNode *toDelete = current->next;
+            current->next = toDelete->next;
+            free(toDelete);
         } else {
-            // No duplicate, move to the next node
-            previous = current;
-            current = current->next;
+            // Just traverse to the next node
+            pp = &current->next;
         }
     }
 
