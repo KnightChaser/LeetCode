@@ -11,24 +11,19 @@ bool hasCycle(struct ListNode *head) {
         return false; // An empty list cannot have a cycle
     }
 
-    bool hasCycle = false;
-
-    // Use the two-pointer technique to detect a cycle
-    struct ListNode *slow = head;
-    struct ListNode *fast = head;
-
-    // If there is a cycle, the fast pointer will meet the slow pointer in the future.
-    while (slow != NULL && fast != NULL && fast->next != NULL) {
-        slow = slow->next; 
-        fast = fast->next->next; 
-
-        if (slow == fast) {
-            hasCycle = true;
-            break;
+    // The given linked list has a maximum of 10^4 nodes.
+    // So, if we reach 10^4 itrations of traverse, and the next node is not NULL,
+    // we can safely assume that the list does have a cycle.
+    int traverseCount = 0;
+    while (head->next != NULL) {
+        if (traverseCount > 10000) {
+            // There is a cycle in the list
+            return true;
         }
+        head = head->next;
+        traverseCount++;
     }
 
-    // If the fast pointer reaches the end of the list,
-    // without touching the slow pointer, there is no cycle.
-    return hasCycle;
+    // No cycle detected
+    return false; 
 }
